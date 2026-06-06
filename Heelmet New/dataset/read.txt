@@ -1,0 +1,3 @@
+Train → used for learning.
+Validation → used for evaluation during training.
+Test → used for evaluation after training.

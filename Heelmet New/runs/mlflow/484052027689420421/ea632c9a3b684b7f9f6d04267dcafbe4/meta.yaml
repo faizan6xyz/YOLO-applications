@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/faiza/OneDrive/Desktop/YOLO applications/Helmet New/runs/mlflow/484052027689420421/ea632c9a3b684b7f9f6d04267dcafbe4/artifacts
+end_time: 1780693264915
+entry_point_name: ''
+experiment_id: '484052027689420421'
+lifecycle_stage: active
+run_id: ea632c9a3b684b7f9f6d04267dcafbe4
+run_name: train-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780692136344
+status: 3
+tags: []
+user_id: faiza
