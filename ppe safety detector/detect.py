@@ -2,10 +2,8 @@ import cv2
 import argparse
 from ultralytics import YOLO
 from datetime import datetime
-
 VIOLATION_CLASSES = ["no-helmet", "no-vest"]  # adjust to your dataset labels
 MODEL_PATH = "runs/train/ppe_detector/weights/best.pt"  # or "yolov8n.pt" for demo
-
 def run(source):
     model = YOLO(MODEL_PATH)
     cap = cv2.VideoCapture(source if not source.isdigit() else int(source))
